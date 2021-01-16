@@ -1,93 +1,19 @@
 # Professional-Portfolio - Simran Sehdev
 
+### updated-portfolio Includes: 
+* My full name, email, and phone number
+* Updated portfolio featuring all of my previous homework. 
+* Updated GitHub profile with pinned repositories featuring 3 examples of my work my homework.
+* links to my GitHub and LinkedIn profile.
+* Updated LinkedIn profile.
+* Updated resume 
 
-## Updated Github
+### updated-github-profile : 
 It contains my updated portfolio ( New added) as well as links to my Github profile and my Linkedin account.
 * Github repo link: https://github.com/simk2020/Professional-Portfolio.git
 * Github pages link:  https://simk2020.github.io/Professional-Portfolio/
 
-## Updated Resume 
-
-## Updated LinkedIn 
-
-Now that you've built a full-stack web application and have another project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
-
-If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but it's also *critical* on your journey as a developer.
-
-
-## Requirements
-
-* Updated portfolio featuring at least 3 examples of student work from either deployed projects of homeworks
-
-* Update GitHub profile with pinned repositories featuring at least 3 examples of student work from either deployed projects of homeworks
-
-* Updated resume
-
-* Updated LinkedIn profile
-
-
-## Grading
-
-| Requirement      | Weight |
-| ---------------- | ------ |
-| Portoflio        | 40%    |
-| GitHub Profile   | 40%    |
-| Resume           | 10%    |
-| LinkedIn Profile | 10%    |
-
-
-## Instructions
-
-1. [Updated Portfolio](#updated-portfolio)
-2. [GitHub Profile](#updated-github-profile)
-3. [Updated Resume](#updated-resume)
-4. [Updated LinkedIn](#updated-linkedin)
-
-### Updated Portfolio
-
-💁 Need help updating your Portfolio? Check out the [Career Services milestone resources for online presence](https://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-polish-your-online-presence).
-
-Your updated portfolio should:
-
-1. Display your full name, email, and phone number
-
-2. Have links to your GitHub profile and LinkedIn profile
-
-3. Have a link to a downloadable PDF of your resume
-
-4. Display at least 3 examples of student work from either deployed projects or homeworks. For each project, make sure you have the following:
-
-    * Project title
-
-    * Link to the deployed version
-
-    * Link to the GitHub repository
-
-    * Screenshot of the deployed application
-
-5. Have a polished, mobile-responsive user interface.
-
-
-### Design
-
-Unfortunately, this is where it gets a little bit subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
-
-* Mobile-first design
-
-* Choose a color palette for your site so it doesn't just look like
-  the default bootstrap theme or an unstyled HTML site.
-
-* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
-
-
-### Updated GitHub Profile 
-
-Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
-
-Your GitHub profile must contain at least the following items:
-
-1. Professional profile picture
+Professional profile picture
 
    * A photo or an image other than the default Github identicon. (a semi-professional to professional photo or an avatar photo are preferred)
 
@@ -120,6 +46,20 @@ Your GitHub profile must contain at least the following items:
    * Contact information for you and any collaborators
 
 9. Commit history. Every pinned repository should have at least 20 commits.
+
+## Instructions
+
+1. [Updated Portfolio](#updated-portfolio)
+2. [GitHub Profile](#updated-github-profile)
+
+
+### Updated GitHub Profile 
+
+Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
+
+Your GitHub profile must contain at least the following items:
+
+1. 
 
 
 ### Updated Resume 

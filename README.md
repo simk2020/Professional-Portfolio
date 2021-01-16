@@ -3,7 +3,7 @@
 ### updated-portfolio Includes: 
 * My full name, email, and phone number
 * Updated portfolio featuring all of my previous homework. 
-* Updated GitHub profile with pinned repositories featuring 3 examples of my work my homework.
+* Updated GitHub profile with pinned repositories featuring 3 examples of my work.
 * links to my GitHub and LinkedIn profile.
 * Updated LinkedIn profile.
 * Updated resume 
@@ -20,4 +20,4 @@ It contains my updated portfolio ( New added) as well as links to my Github prof
 5. Link to your deployed portfolio
 6. At least 3 pinned repositories:
 
-Please contact me directly og you have any questions @simranksehdev@gmail.com. 
+Please contact me directly if you have any questions @simranksehdev@gmail.com. 
